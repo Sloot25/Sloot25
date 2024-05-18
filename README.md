@@ -51,10 +51,6 @@
     src="https://skillicons.dev/icons?i=github" height="60" width="80" />
 </p>
 
-<br> 
+ ### <picture> <img src = "http:://skillicons.dev/icons?i=github" height="37px" width = 50px>  </picture> Statistical Data
+![Diego top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
 
-## 🐍My Contributions Graph
-
-<p align = "center">
-	<img src = "https://github.com/Sloot25/Sloot25/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
