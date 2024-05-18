@@ -9,7 +9,7 @@
 
   - :school: I am a `Computer Science Student` at [Faculty of Science](https://www.fciencias.unam.mx/) at [National Autonomous University of Mexico](https://www.unam.mx/).
   - :technologist: I love using Software as a solution for every `Problem`.
-  - :student: I’m currently learning `Computer Science` and `Software Engineering`.
+  - :student: I’m currently learning `Computer Science`.
   - :nerd_face: Always `learning new things`.
   - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 
@@ -54,7 +54,10 @@
  ### <picture> <img src="https://skillicons.dev/icons?i=github" height="37px" width = 50px>  </picture> Statistical Data
 <p align="center">
     <a href="https://github.com/Sloot25/github-readme-stats">
-	    <img alt="Sloot25" src="https://github-readme-stats.vercel.app/api?username=Sloot25&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sloot25&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Sloot25" height="230px"/>
-<br/>
+	    <img alt="Sloot25" src="https://github-readme-stats.vercel.app/api?username=Sloot25&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="150px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sloot25&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Sloot25" height="150px"/>
+<br/></p>
+<details><sumary><h3> :open_file_folder: My Repositories </h3></sumary></details>
+<div> 
+</div>
 
