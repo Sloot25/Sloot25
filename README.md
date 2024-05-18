@@ -1,16 +1,14 @@
-### Hi there 👋
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sloot25&theme=tokyonight&layout=compact)  
-<!--
-**Sloot25/Sloot25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Hi, I'm Diego Vidal</h1>
 
-Here are some ideas to get you started:
+<br> 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br><br>
+
+  - :school: I am a `Computer Science Student` at [Faculty of Science](https://www.fciencias.unam.mx/) at [National Autonomous University of Mexico](https://www.unam.mx/).
+  - :technologist: I love using Software as a solution for every `Problem`.
+  - :student: I’m currently learning `Computer Science` and `Software Engineering`.
+  - :nerd_face: Always `learning new things`.
+  - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+<br>
