@@ -26,7 +26,7 @@
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-<p align "center"> 
+<p align="center"> 
   <img align = "center" 
     src="https://skillicons.dev/icons?i=haskell" height="60" width="80" />
   <img align = "center" 
@@ -36,3 +36,16 @@
   <img align = "center" 
     src="https://skillicons.dev/icons?i=postgres" height="60" width="80" />
 </p>
+
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+<p align="center">
+  <img align = "center" 
+    src="https://skillicons.dev/icons?i=linux" height="60" width="80" />
+  <img align = "center" 
+    src="https://skillicons.dev/icons?i=neovim" height="60" width="80" />
+  <img align = "center" 
+    src="https://skillicons.dev/icons?i=git" height="60" width="80" />
+  <img align = "center" 
+    src="https://skillicons.dev/icons?i=github" height="60" width="80" />
+</p>
+
