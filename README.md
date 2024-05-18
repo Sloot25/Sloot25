@@ -72,6 +72,6 @@
 
 ## Contributions Graph 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sloot25/Sloot25/blob/output/github-contribution-grid-snake.svg?" alt="Snake" />
-</p>
+<div>
+  ![Snake animation](https://github.com/Sloot25/Sloot25/blob/output/github-contribution-grid-snake.svg)
+</div>
