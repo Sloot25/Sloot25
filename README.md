@@ -51,6 +51,6 @@
     src="https://skillicons.dev/icons?i=github" height="60" width="80" />
 </p>
 
- ### <picture> <img src = "http:://skillicons.dev/icons?i=github" height="37px" width = 50px>  </picture> Statistical Data
-![Diego top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
+ ### <picture> <img src = "https:://skillicons.dev/icons?i=github" height="37px" width = 50px>  </picture> Statistical Data
+![Diego top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sloot25&theme=tokyonight&layout=compact)
 
