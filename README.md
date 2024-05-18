@@ -51,6 +51,10 @@
     src="https://skillicons.dev/icons?i=github" height="60" width="80" />
 </p>
 
- ### <picture> <img src = "https:://skillicons.dev/icons?i=github" height="37px" width = 50px>  </picture> Statistical Data
-![Diego top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sloot25&theme=tokyonight&layout=compact)
+ ### <picture> <img src="https://skillicons.dev/icons?i=github" height="37px" width = 50px>  </picture> Statistical Data
+<p align="center">
+    <a href="https://github.com/Sloot25/github-readme-stats">
+	    <img alt="Sloot25" src="https://github-readme-stats.vercel.app/api?username=Sloot25&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sloot25&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Sloot25" height="230px"/>
+<br/>
 
