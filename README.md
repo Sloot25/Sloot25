@@ -70,5 +70,3 @@
 </details>
 </br>
 
-## Contributions Graph 
-
