@@ -61,6 +61,9 @@
 <br>
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
   <div> 
+    <p align="center"> 
+    [![EstructurasDeDatos](https://github-readme-stats.vercel.app/api/pin/?username=Sloot25&repo=EstructurasDeDatos)](https://github.com/anuraghazra/github-readme-stats)
+    </p>
   </div>
 </details>
 </br>
