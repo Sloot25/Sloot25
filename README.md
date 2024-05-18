@@ -12,14 +12,13 @@
   - :student: I’m currently learning `Computer Science` and `Software Engineering`.
   - :nerd_face: Always `learning new things`.
   - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-<br>
-<br> 
+
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
   <a href="https://www.instagram.com/diego_vidal_a?igsh=MXY4bnRqYmVocDRqMw=="><img align="center"
       src="https://skillicons.dev/icons?i=instagram"
-      height="30" width="40" /></a> 
+      height="60" width="80" /></a> 
   <a href="mailto:vidalaguilardiego@ciencias.unam.mx"><img align="center" 
-      src="https://skillicons.dev/icons?i=gmail" height="30" width="40" />
+      src="https://skillicons.dev/icons?i=gmail" height="60" width="80" />
   </a>
 </p>
