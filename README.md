@@ -63,7 +63,7 @@
   <div> 
     <p align="center"> 
       <a href="https://github.com/Sloot25/EstructurasDeDatos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloot25&repo=EstructurasDeDatos" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloot25&repo=EstructurasDeDatos&theme=tokyonight" />
     </a>
     </p>
   </div>
