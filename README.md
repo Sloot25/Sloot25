@@ -63,13 +63,13 @@
   <div> 
     <p align="center"> 
       <a href="https://github.com/Sloot25/EstructurasDeDatos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloot25&repo=EstructurasDeDatos&theme=tokyonight" height="150px"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloot25&repo=EstructurasDeDatos&theme=tokyonight"/>
     </a>
       <a href="https://github.com/Sloot25/Lenguajes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloot25&repo=Lenguajes&theme=tokyonight" height="150px"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloot25&repo=Lenguajes&theme=tokyonight"/>
       </a>
       <a href="https://github.com/Sloot25/Modelado">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloot25&repo=Modelado&theme=tokyonight" height="150px"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloot25&repo=Modelado&theme=tokyonight"/>
       </a>
     </p>
   </div>
