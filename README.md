@@ -1,5 +1,5 @@
 ### Hi there 👋
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)  
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sloot25&theme=tokyonight&layout=compact)  
 <!--
 **Sloot25/Sloot25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
