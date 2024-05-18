@@ -61,7 +61,7 @@
 <br>
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
   <div> 
-    <p align="center"> 
+    <p> 
       <a href="https://github.com/Sloot25/EstructurasDeDatos">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sloot25&repo=EstructurasDeDatos&theme=tokyonight"/>
     </a>
