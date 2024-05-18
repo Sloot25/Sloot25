@@ -22,3 +22,17 @@
       src="https://skillicons.dev/icons?i=gmail" height="60" width="80" />
   </a>
 </p>
+
+## 🛠️ My Skills
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+<p align "center"> 
+  <img align = "center" 
+    src="https://skillicons.dev/icons?i=haskell" height="60" width="80" />
+  <img align = "center" 
+    src="https://skillicons.dev/icons?i=java" height="60" width="80" />
+  <img align = "center" 
+    src="https://skillicons.dev/icons?i=py" height="60" width="80" />
+  <img align = "center" 
+    src="https://skillicons.dev/icons?i=postgres" height="60" width="80" />
+</p>
