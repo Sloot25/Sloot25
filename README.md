@@ -57,7 +57,11 @@
 	    <img alt="Sloot25" src="https://github-readme-stats.vercel.app/api?username=Sloot25&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="150px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sloot25&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Sloot25" height="150px"/>
 <br/></p>
-<details><sumary><h3> :open_file_folder: My Repositories </h3></sumary></details>
-<div> 
-</div>
+
+<br>
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+  <div> 
+  </div>
+</details>
+</br>
 
