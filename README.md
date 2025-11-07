@@ -35,6 +35,10 @@
     src="https://skillicons.dev/icons?i=py" height="60" width="80" />
   <img align = "center" 
     src="https://skillicons.dev/icons?i=postgres" height="60" width="80" />
+  <img align = "center" 
+    src="https://skillicons.dev/icons?i=go" height="60" width="80" />
+  <img align = "center" 
+    src="https://skillicons.dev/icons?i=rust" height="60" width="80" />
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software,Tools and Operating Systems
